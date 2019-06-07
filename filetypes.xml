@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="UIStylesheet" type="CSS" />
+      <mapping pattern="Stylesheet" type="CSS" />
       <mapping pattern="営業" type="PLAIN_TEXT" />
       <mapping pattern="category1" type="PLAIN_TEXT" />
     </extensionMap>
