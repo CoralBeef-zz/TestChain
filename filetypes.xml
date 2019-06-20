@@ -5,6 +5,7 @@
       <mapping pattern="Stylesheet" type="CSS" />
       <mapping pattern="UIStylesheet" type="CSS" />
       <mapping pattern="category1" type="PLAIN_TEXT" />
+      <mapping pattern="SkyTheme" type="PLAIN_TEXT" />
       <mapping pattern="営業" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
